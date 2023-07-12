@@ -1,0 +1,8 @@
+#!/bin/bash
+
+
+#update the software cache in case it is needed
+sudo apt update
+#UPgrade using new software package versions
+sudo apt upgrade -y
+
